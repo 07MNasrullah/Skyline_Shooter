@@ -11,8 +11,8 @@ Team members:
 
 R= Rapid fire
 S= Shield
-Move left= A
-Move right= D
+A= Move left
+D= Move right
 
 ## Why Skyline Shooter?
 The phrase "Defend, shoot, and conquer the skyline!" captures the core elements of *Skyline Shooter* succinctly and dynamically. 
