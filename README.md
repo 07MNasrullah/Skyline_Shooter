@@ -5,7 +5,7 @@ Team members:
 
 1.Nasrullah (The leader/The CODER)
 2.Aliah(The EVALUATOR) 
-3.Izzat(The ThINKER)
+3.Izzat(The THINKER)
 
 ## How to play😯😮😮
 
