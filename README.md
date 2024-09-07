@@ -9,7 +9,7 @@ Team members:
 
 ## How to play😯😮😮
 
-R= Rapid fire
+W= Rapid fire
 S= Shield
 A= Move left
 D= Move right
